@@ -5,7 +5,11 @@ dependencyResolutionManagement {
         mavenCentral()
         jcenter() // Warning: this repository is going to shut down soon
     }
+
+
 }
 rootProject.name = "miotol"
 include ':app'
 include ':app:miotol'
+
+

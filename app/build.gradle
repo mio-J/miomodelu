@@ -2,8 +2,11 @@ plugins {
     id 'com.android.application'
 }
 
+
 android {
     compileSdk 31
+
+
 
     defaultConfig {
         applicationId "com.example.miotol"
